@@ -7,7 +7,7 @@ Du skapar ett enkelt UI där användaren klickar på sten, sax, eller påse - sa
 
 ## Spelregler
 
-![Regler sten, sax, påse](https://github.com/chasacademy-sandra-larsson/js--rock-paper-scissor/blob/main/Rock-paper-scissors-sv.svg.png)
+![Regler sten, sax, påse](https://github.com/chasacademy-sandra-larsson/js--rock-paper-scissor/blob/main/Rock-paper-scissors-sv.svg.png | width=100)
 
 
 ## Annat 
