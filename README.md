@@ -2,7 +2,7 @@
 
 Du använder dig av DOM:en för att interagera med HTML/CSS. Du använder enbart Vanilla JavaScript (inget ramverk/bibliotek). 
 
-Du skapar ett enkelt UI där användaren klickar på sten, sax, eller påse - samtidigt som "datorn" slumpar mellan sten, sax eller påse. Vinnaren i nuvarande omgång visas och du bygger en poängräknaren där totalvinnaren är den som förstå når till 5 vinster. 
+Du skapar ett enkelt UI där användaren klickar på sten, sax, eller påse - samtidigt som "datorn" slumpar mellan sten, sax eller påse. Vinnaren i nuvarande omgång visas och du bygger en poängräknare där totalvinnaren är den som först når till 5 vinster. 
 
 
 ## Spelregler
